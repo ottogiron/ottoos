@@ -13,6 +13,7 @@ Install the dependencies:
 ## Install and configure the kernel
 
 to build and install the kernel (mykernel.bin)
+
     $ sudo make install
 
 note: it will show some warnings but it should work
