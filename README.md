@@ -1,10 +1,10 @@
 # OttoOS Toy OS kernel
 
-This is a simple implementation of an kernel using as (gnu assembler) and c++.
+This is a simple implementation of a kernel using ***as*** (gnu assembler) and c++.
 
 ## Dependencies
 
-The kernel must be build on a linux machine (tested in ubuntu 16.04 xenial vagrant machine).
+The kernel must be built on a Linux machine (tested on ubuntu 16.04 xenial vagrant machine).
 
 Install the dependencies:
 
