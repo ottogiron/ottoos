@@ -4,7 +4,7 @@ This is a simple implementation of an kernel using as (gnu assembles) and c++.
 
 ## Dependencies
 
-The kernel must be build on a linux machine (tested in ubuntu 16.04 xenial).
+The kernel must be build on a linux machine (tested in ubuntu 16.04 xenial vagrant machine).
 
 Install the dependencies:
 
