@@ -1,6 +1,6 @@
 # OttoOS Toy OS kernel
 
-This is a simple implementation of an kernel using as (gnu assembles) and c++.
+This is a simple implementation of an kernel using as (gnu assembler) and c++.
 
 ## Dependencies
 
